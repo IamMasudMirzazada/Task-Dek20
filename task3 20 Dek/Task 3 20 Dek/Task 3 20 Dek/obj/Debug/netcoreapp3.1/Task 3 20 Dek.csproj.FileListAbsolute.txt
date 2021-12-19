@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\task3 20 Dek\Task 3 20 Dek\Task 3 20 Dek\bin\Debug\netcoreapp3.1\Task 3 20 Dek.exe
+C:\Users\HP\Desktop\task3 20 Dek\Task 3 20 Dek\Task 3 20 Dek\bin\Debug\netcoreapp3.1\Task 3 20 Dek.deps.json
+C:\Users\HP\Desktop\task3 20 Dek\Task 3 20 Dek\Task 3 20 Dek\bin\Debug\netcoreapp3.1\Task 3 20 Dek.runtimeconfig.json
+C:\Users\HP\Desktop\task3 20 Dek\Task 3 20 Dek\Task 3 20 Dek\bin\Debug\netcoreapp3.1\Task 3 20 Dek.runtimeconfig.dev.json
+C:\Users\HP\Desktop\task3 20 Dek\Task 3 20 Dek\Task 3 20 Dek\bin\Debug\netcoreapp3.1\Task 3 20 Dek.dll
+C:\Users\HP\Desktop\task3 20 Dek\Task 3 20 Dek\Task 3 20 Dek\bin\Debug\netcoreapp3.1\Task 3 20 Dek.pdb
+C:\Users\HP\Desktop\task3 20 Dek\Task 3 20 Dek\Task 3 20 Dek\obj\Debug\netcoreapp3.1\Task 3 20 Dek.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\task3 20 Dek\Task 3 20 Dek\Task 3 20 Dek\obj\Debug\netcoreapp3.1\Task 3 20 Dek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\task3 20 Dek\Task 3 20 Dek\Task 3 20 Dek\obj\Debug\netcoreapp3.1\Task 3 20 Dek.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\task3 20 Dek\Task 3 20 Dek\Task 3 20 Dek\obj\Debug\netcoreapp3.1\Task 3 20 Dek.AssemblyInfo.cs
+C:\Users\HP\Desktop\task3 20 Dek\Task 3 20 Dek\Task 3 20 Dek\obj\Debug\netcoreapp3.1\Task 3 20 Dek.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\task3 20 Dek\Task 3 20 Dek\Task 3 20 Dek\obj\Debug\netcoreapp3.1\Task 3 20 Dek.dll
+C:\Users\HP\Desktop\task3 20 Dek\Task 3 20 Dek\Task 3 20 Dek\obj\Debug\netcoreapp3.1\Task 3 20 Dek.pdb
+C:\Users\HP\Desktop\task3 20 Dek\Task 3 20 Dek\Task 3 20 Dek\obj\Debug\netcoreapp3.1\Task 3 20 Dek.genruntimeconfig.cache
